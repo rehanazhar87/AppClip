@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["W59NV6M5Q7.com.champapps.gtp.Clip"],
+        "paths": ["/clip/*"]
+      }
+    ]
+  }
+}
